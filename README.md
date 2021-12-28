@@ -1,0 +1,3 @@
+- 👋 Sergey Kotsar
+- 🌱 Learning: NodeJS, NestJS
+- 📫 Email: kotsarsergey@gmail.com
