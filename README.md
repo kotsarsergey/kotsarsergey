@@ -1,4 +1,4 @@
-- Sergey Kotsar
+- Sergei Kotsar
 - Current stack: NodeJS, NestJS
-- Learning: Fastify, Go
+- Learning: Go
 - Email: kotsarsergey@gmail.com
